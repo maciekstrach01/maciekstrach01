@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maciej
-- 👀 I’m interested in sport,music,chess,cinematography and IT
+- 👀 I’m interested in sport,music,chess,economics,cinematography and IT
 - 💞️ I’m looking to collaborate on: I am very flexible and open to various cooperation
 - 📫 How to reach me: maciej.strach01@gmail.com
 

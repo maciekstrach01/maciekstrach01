@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maciej
 - 👀 I’m interested in sport,music,chess,economics,animals,cinematography and IT
-- 💞️ I’m looking to collaborate on: I am very flexible and open to various cooperation
+- 💞️ I specialise mainly in orient-object programming and databases but I am very flexible and open to various cooperation
 - 📫 How to reach me: maciej.strach01@gmail.com
 
 <!---

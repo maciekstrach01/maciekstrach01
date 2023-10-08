@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Maciej
 - 👀 I’m interested in sport,music,chess,economics,animals,cinematography and IT
 - 💞️ I specialise mainly in orient-object programming and databases but I am very flexible and open to various cooperation
+- 📫 My YouTube Channel: https://www.youtube.com/channel/UCPWKXOw1L5sQfcSKp61_g2w maciej.strach01@gmail.com
 - 📫 How to reach me: maciej.strach01@gmail.com
 
 <!---

@@ -2,6 +2,7 @@
 - 👀 I’m interested in sport,music,chess,economics,animals,cinematography and IT
 - 💞️ I specialise mainly in orient-object programming and databases but I am very flexible and open to various cooperation
 - 📫 My YouTube Channel: https://www.youtube.com/channel/UCPWKXOw1L5sQfcSKp61_g2w
+- 👀 My article about programming languages: https://drive.google.com/file/d/1brkLF9amRB7vBQjbwSOuHjtTb-R2KQ0L/view?usp=sharing
 - 📫 How to reach me: maciej.strach01@gmail.com
 
 <!---
